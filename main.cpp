@@ -6,7 +6,7 @@
  * See for more details on Foma nad fomalib:
  * https://fomafst.github.io
  *
- * Copyright 2015 by Damir Cavar
+ * Copyright 2015-2018 by Damir Cavar
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -70,8 +70,7 @@ int main(int argc, char *argv[]) {
             cout << "Usage: fomatest [OPTION]... [words]..." << endl << endl
             << "Process words " << endl
             << endl
-            << "(C) 2015 by Damir Cavar <damir@linguistlist.org>" << endl
-            << "            Lwin Moe <lwing@linguistlist.org>" << endl << endl
+            << "(C) 2015-2018 by Damir Cavar <dcavar@indiana.edu>" << endl << endl
             << desc << endl;
             return SUCCESS;
         }
